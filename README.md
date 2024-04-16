@@ -1,5 +1,7 @@
 # Beyond GPS Navigator
 
+![Beyond GPS Navigator](https://github.com/J-B-Mugundh/beyond-gps-navigator/blob/main/image.png)
+
 ## Overview
 
 Beyond GPS Navigator is a pivotal component of our comprehensive 'Integrated Assistive System for Object Detection and Blind Navigation,' crafted to redefine the navigation experience for the visually impaired. Breaking free from the constraints of traditional GPS, this innovative technology empowers users to traverse their surroundings with confidence, regardless of GPS signal availability. By ingeniously sharing location data via email, we not only enhance user independence but also fortify their safety, ushering in a new era of secure and autonomous navigation for individuals with visual impairments
