@@ -35,7 +35,7 @@ To get started with Beyond GPS Navigator, follow these steps:
 1. Clone the repository to your local machine.
 2. Install the necessary dependencies using `pip install -r requirements.txt`.
 3. Set up your Google API key in the environment variables as `GOOGLE_API_KEY`.
-4. Run the Streamlit application using `streamlit run app.py`.
+4. Run the Streamlit application using `streamlit run streamlit_app.py`.
 
 ## Usage
 
